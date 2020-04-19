@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="btncalcular">Generar</string>
+    <string name="txtnumerohint">Digite el número...</string>
+    <string name="lbltexto">Digite un número del 1 al 100:</string>
+    <string name="btnsalir">Salir</string>
+</resources>
